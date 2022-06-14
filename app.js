@@ -13,4 +13,4 @@ app.use(expressLayouts);
 // rute
 app.use(require("./routes/router.js"));
 app.listen(port, () => console.log("Server sedang dijalankan"));
-module.exports = app;
+

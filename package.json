@@ -7,6 +7,7 @@
     "express-ejs-layouts": "^2.5.1",
     "method-override": "^3.0.0",
     "mongoose": "^6.3.4",
+    "nodemon": "^2.0.16",
     "postcss-cli": "^9.1.0",
     "uninstall": "^0.0.0"
   },
